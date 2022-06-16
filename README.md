@@ -2,6 +2,9 @@
 
 https://www.youtube.com/watch?v=CA1isqTCL9w&t=29s
 
+https://raw.githubusercontent.com/RodrigoMvs123/Como-implementar-o-SFTP-no-Azure/main/README.md
+
+
 SFTP Azure
 
 Como implementar o SFTP no Azure
